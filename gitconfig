@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cedcaz@gmail.com
-	name = cedric cazal
+	email = 
+	name = cazal
